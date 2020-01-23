@@ -194,6 +194,22 @@
                 "postalCode": "12345",
                 "country": "USA"
             }
+        },
+        {
+            "id": "12",
+            "firstName": "John",
+            "lastName": "Doe",
+            "nickname": "Johny",
+            "email": "john.doe@abc.com",
+            "address": {
+                "address1": "1234 Sunset Blvd",
+                "address2": "Apt 100",
+                "city": "Los Angeles",
+                "state": "CA",
+                "region": "Hollywood",
+                "postalCode": "98765",
+                "country": "United States"
+            }
         }
     ]
 }
