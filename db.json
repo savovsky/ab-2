@@ -11,7 +11,7 @@
                 "address2": "Apt 100",
                 "city": "Los Angeles",
                 "state": "CA",
-                "region": "Hollywood",
+                "region": null,
                 "postalCode": "98765",
                 "country": "United States"
             }
@@ -27,7 +27,7 @@
                 "address2": "Unit 45",
                 "city": "New York",
                 "state": "NY",
-                "region": "Hudson Valley",
+                "region": null,
                 "postalCode": "54321",
                 "country": "USA"
             }
